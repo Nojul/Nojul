@@ -47,7 +47,6 @@ focus:
 
 currently:
   studying:  Computer Engineering @ Polytechnique
-  exploring: LLMs, vector stores & creative coding
 ```
 
 </td>
