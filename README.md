@@ -18,7 +18,7 @@ Based in <strong>Montreal, Canada</strong> · Building things that blend logic a
   </a>
 </p>
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nojul.Nojul&left_color=grey&right_color=58A6FF&left_text=👾%20humans%20detected)](https://github.com/Nojul)
+[![Noé's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nojul&theme=react-dark&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff&height=200)](https://github.com/Nojul)
 
 </div>
 
@@ -36,16 +36,13 @@ based_in: Montreal, Canada
 role:     Computer Engineering Student / Developer
 
 focus:
-  - Full-stack web development
-  - AI tools & RAG systems
-  - Embedded systems & FPGA design
-  - Digital logic & VHDL/Verilog
-  - Audio / music technology
-  - Building practical + creative software
+  - Full-stack software engineering
+  - Embedded systems & hardware-software co-design
+  - Digital systems, FPGA development, and low-level computing
+  - Building practical, production-minded software with creative applications
 
 currently:
   studying:  Computer Engineering @ Polytechnique
-  building:  web app for audio/CD management
   exploring: LLMs, vector stores & creative coding
 ```
 
