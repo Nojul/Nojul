@@ -16,6 +16,10 @@ Based in <strong>Montreal, Canada</strong> · Building things that blend logic a
   <a href="mailto:Noejulien911@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/noe--julien/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 [![Noé's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nojul&theme=react-dark&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff&height=200)](https://github.com/Nojul)
